@@ -17,7 +17,7 @@ Build a regression model to accurately predict the price of a house based on the
 
 ## 📂 Dataset
 
-- The dataset contains features like `Area`, `Location`, `Number of Bedrooms`, etc.
+- The dataset contains features like `Area`, `Location`, `parking`,'furnishing status', etc.
 - Preprocessing included handling missing values, encoding categorical data, and feature scaling where necessary.
 
 ## 📊 Model
@@ -32,11 +32,8 @@ Build a regression model to accurately predict the price of a house based on the
 
 ## 📈 Visualizations
 
-- Feature importance plot
-- Actual vs Predicted scatter plot
-- Distribution of residuals
-
-*(Insert sample plots or link to them if available)*
+- Correlation Matix using heatmap
+- Histogram for sepate bins
 
 ## 🧠 What I Learned
 
